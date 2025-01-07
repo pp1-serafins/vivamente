@@ -1,0 +1,15 @@
+body {
+
+color: rgb(118, 23, 196);
+background-color: white;
+font-family:'Times New Roman', Times, serif;
+}
+ul{
+
+    display: flex ;
+    justify-content: space-between;
+    padding: 16px;
+    
+}
+
+
